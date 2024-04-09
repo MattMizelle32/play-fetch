@@ -1,6 +1,6 @@
 # Play Fetch
 
-In this lab, you will use the knowledge you've learned about HTTP requests, asynchronous Javascript (including `Promise`), and `fetch()` to interact with a third-party API and use its results to modify an HTML page.
+In [this lab](https://w3.cs.jmu.edu/cs343/s24/labs/14-play-fetch/), you will use the knowledge you've learned about HTTP requests, asynchronous Javascript (including `Promise`), and `fetch()` to interact with a third-party API and use its results to modify an HTML page.
 
 ## Getting Started
 
